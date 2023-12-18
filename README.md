@@ -1,6 +1,6 @@
 # Graph-cli-commands-cheatsheet
 
-0.64
+## v.0.64 Feel free to PR if this ever got outdated
 
 flags/options for various commands in the Graph Protocol's `graph-cli` tool:
 
