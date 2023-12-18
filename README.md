@@ -2,7 +2,7 @@
 
 0.64
 
-Certainly! Here's a consolidated overview of the flags/options for various commands in the Graph Protocol's `graph-cli` tool:
+flags/options for various commands in the Graph Protocol's `graph-cli` tool:
 
 ### Add Command
 - `--abi`: Path to the contract ABI.
